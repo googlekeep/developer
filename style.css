@@ -33,3 +33,33 @@ width: 80%;
     border-radius: 2rem;
 
 }
+.section-two{
+   
+    display: flex;
+    margin-top: 100px;
+    padding-left: 10%;
+    padding-bottom: 100px;
+    background-image: url(/images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-position-y: bottom;
+}
+.secend-image{
+    width: 70%;
+    padding-right: 50px;
+    padding-top: 50px;
+    
+}
+.big-dream{
+    width: 70%;
+    padding-left: 70px;
+    padding-right: 100px;
+}
+.resume-download{
+    text-decoration: none;
+    background-image: repeating-linear-gradient(orange, tomato);
+    padding: 10px 20px ;
+    border-radius: 2rem;
+    font-size: 20px;
+    color: aliceblue;
+}
