@@ -1,0 +1,35 @@
+body{
+    font-family: 'Nunito', sans-serif;
+font-family: 'Poppins', sans-serif;
+margin: 0%;
+}
+h1{
+    font-size: 50px;
+}
+span{
+    color: orangered;
+}
+.home-side{
+    background-image: url(/images/top-banner.png);
+    background-repeat: no-repeat;
+display: flex;
+padding-left: 10%;
+width: 80%;
+
+}
+.my-imag{
+    width: 90%;
+    padding-right: 0px;
+    padding-top: 50px;
+    
+    
+}
+.haire-me{
+    text-decoration: none;
+    width: 100%;
+    color: rgb(255, 255, 255);
+    background-image: linear-gradient(orange, tomato);
+    padding: 5px 10px 5px 10px;
+    border-radius: 2rem;
+
+}
